@@ -69,7 +69,7 @@ Feel free to open issues or submit pull requests for any improvements or additio
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-##Sample PowerBI Visualization.
+## Sample PowerBI Visualization.
 
 ![PowerBI Screenshot](https://github.com/user-attachments/assets/4ade8b43-097b-4043-9223-ba6a85cc973b)
 ![PowerBI Screenshot](https://github.com/user-attachments/assets/45a102ea-4183-4392-a0f3-5f1da742bbe8)
